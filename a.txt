@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-hello world v3
-=======
 hello world v4
->>>>>>> gitskills_v3
+
