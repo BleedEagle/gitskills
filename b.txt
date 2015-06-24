@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-b.txt haha
-=======
 new branch
->>>>>>> e78c8670da5e62d7aa30c8d1c52ce8a967df9cb1
