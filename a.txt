@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hello world //v4
 
+=======
+hello world v5
+>>>>>>> new_branch
